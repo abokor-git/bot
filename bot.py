@@ -19,8 +19,8 @@ nexttime = True
 def email():
     
     # Set Global Variables
-    gmail_user = 'etude.abokor@gmail.com'
-    gmail_password = 'Mail.gmail.Etude'
+    gmail_user = 'bot.system.mail@gmail.com'
+    gmail_password = 'Mail.gmail.bot'
     # Create Email 
     mail_from = 'BOT TOP-ACHAT'
     mail_to = 'abokor.ahmed.kadar@outlook.com'
